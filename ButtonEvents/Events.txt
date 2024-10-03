@@ -1,0 +1,117 @@
+FIVEPD::OnMenuTrigger:Callout Menu:Backup Menu
+FIVEPD::OnMenuTrigger:Callout Menu:Add nearby player
+FIVEPD::OnMenuTrigger:Callout Menu:Disable callouts
+FIVEPD::OnMenuTrigger:Callout Menu:Debug menu
+FIVEPD::OnMenuTrigger:Backup Menu:Code 1
+FIVEPD::OnMenuTrigger:Backup Menu:Code 2
+FIVEPD::OnMenuTrigger:Backup Menu:Code 3
+FIVEPD::OnMenuTrigger:Backup Menu:Code 99
+FIVEPD::OnMenuTrigger:Backup Menu:Multi agency backups
+FIVEPD::OnMenuTrigger:Debug menu:Force callouts
+FIVEPD::OnMenuTrigger:Debug menu:Enable/Disable a callout
+FIVEPD::OnMenuTrigger:Debug menu:Delete peds
+FIVEPD::OnMenuTrigger:Debug menu:Delete vehicles
+FIVEPD::OnMenuTrigger:Force callouts:Active shooters
+FIVEPD::OnMenuTrigger:Force callouts:Mugging
+FIVEPD::OnMenuTrigger:Force callouts:Slow vehicle
+FIVEPD::OnMenuTrigger:Force callouts:Unconscious person
+FIVEPD::OnMenuTrigger:Force callouts:ParkingViolation
+FIVEPD::OnMenuTrigger:Force callouts:DomesticDispute
+FIVEPD::OnMenuTrigger:Force callouts:Trespassing
+FIVEPD::OnMenuTrigger:Force callouts:[MC] Active Shooter
+FIVEPD::OnMenuTrigger:Force callouts:Structure Fires
+FIVEPD::OnMenuTrigger:Force callouts:Prison Transport
+FIVEPD::OnMenuTrigger:Enable/Disable callouts:Active shooters
+FIVEPD::OnMenuTrigger:Enable/Disable callouts:Mugging
+FIVEPD::OnMenuTrigger:Enable/Disable callouts:Slow vehicle
+FIVEPD::OnMenuTrigger:Enable/Disable callouts:Unconscious person
+FIVEPD::OnMenuTrigger:Enable/Disable callouts:ParkingViolation
+FIVEPD::OnMenuTrigger:Enable/Disable callouts:DomesticDispute
+FIVEPD::OnMenuTrigger:Enable/Disable callouts:Trespassing
+FIVEPD::OnMenuTrigger:Enable/Disable callouts:[MC] Active Shooter
+FIVEPD::OnMenuTrigger:Enable/Disable callouts:Structure Fires
+FIVEPD::OnMenuTrigger:Enable/Disable callouts:Prison Transport
+FIVEPD::OnMenuTrigger:Options menu:Toggle patrol car blip
+FIVEPD::OnMenuTrigger:Options menu:Toggle menu position
+FIVEPD::OnMenuTrigger:Options menu:Toggle blips
+FIVEPD::OnMenuTrigger:Options menu:Toggle notifications
+FIVEPD::OnMenuTrigger:Options menu:Toggle ped observation
+FIVEPD::OnMenuTrigger:Options menu:Change language
+FIVEPD::OnMenuTrigger:Admin menu:Development tools
+FIVEPD::OnMenuTrigger:Admin menu:Garages
+FIVEPD::OnMenuTrigger:Development tools:Add heading to position
+FIVEPD::OnMenuTrigger:Development tools:Add ped model to position
+FIVEPD::OnMenuTrigger:Development tools:Change ped model
+FIVEPD::OnMenuTrigger:Development tools:Save current position
+FIVEPD::OnMenuTrigger:Questions menu:Normal questions
+FIVEPD::OnMenuTrigger:Questions menu:Traffic stop questions
+FIVEPD::OnMenuTrigger:Questions menu:Documentation questions
+FIVEPD::OnMenuTrigger:Normal questions:Have you been drinking recently?
+FIVEPD::OnMenuTrigger:Normal questions:Where are you heading to?
+FIVEPD::OnMenuTrigger:Traffic stop questions:Hello, how are you?
+FIVEPD::OnMenuTrigger:Traffic stop questions:Hello
+FIVEPD::OnMenuTrigger:Documentation questions:Do you have your drivers license with you?
+FIVEPD::OnMenuTrigger:Documentation questions:Do you have a hunting license?
+FIVEPD::OnMenuTrigger:Questions menu:Normal questions
+FIVEPD::OnMenuTrigger:Questions menu:Traffic stop questions
+FIVEPD::OnMenuTrigger:Questions menu:Documentation questions
+FIVEPD::OnMenuTrigger:Normal questions:Have you been drinking recently?
+FIVEPD::OnMenuTrigger:Normal questions:Where are you heading to?
+FIVEPD::OnMenuTrigger:Traffic stop questions:Hello, how are you?
+FIVEPD::OnMenuTrigger:Traffic stop questions:Hello
+FIVEPD::OnMenuTrigger:Documentation questions:Do you have your drivers license with you?
+FIVEPD::OnMenuTrigger:Documentation questions:Do you have a hunting license?
+FIVEPD::OnMenuTrigger:Speed zone menu:Select speed
+FIVEPD::OnMenuTrigger:Speed zone menu:Change radius
+FIVEPD::OnMenuTrigger:Speed zone menu:Place speedzone
+FIVEPD::OnMenuTrigger:Speed zone menu:Remove speedzone
+FIVEPD::OnMenuTrigger:Speed zone menu:Let vehicles go
+FIVEPD::OnMenuTrigger:Object menu:Spawn object
+FIVEPD::OnMenuTrigger:Object menu:Delete all objects you've placed
+FIVEPD::OnMenuTrigger:Object menu:Delete the previous object you've placed
+FIVEPD::OnMenuTrigger:Main menu:Dispatch menu
+FIVEPD::OnMenuTrigger:Main menu:Scene menu
+FIVEPD::OnMenuTrigger:Ped stop menu:Ask for license
+FIVEPD::OnMenuTrigger:Ped stop menu:Ask questions
+FIVEPD::OnMenuTrigger:Ped stop menu:Breathalyzer test
+FIVEPD::OnMenuTrigger:Ped stop menu:Drugswab test
+FIVEPD::OnMenuTrigger:Ped stop menu:Search
+FIVEPD::OnMenuTrigger:Ped stop menu:Move ped
+FIVEPD::OnMenuTrigger:Ped stop menu:Cuff ped
+FIVEPD::OnMenuTrigger:Ped stop menu:Dismiss ped
+FIVEPD::OnMenuTrigger:Ped seat menu:Left rear put into/order out
+FIVEPD::OnMenuTrigger:Ped seat menu:Right rear put into/order out
+FIVEPD::OnMenuTrigger:Traffic stop menu:Interact with
+FIVEPD::OnMenuTrigger:Traffic stop menu:Ask for license
+FIVEPD::OnMenuTrigger:Traffic stop menu:Ask questions
+FIVEPD::OnMenuTrigger:Traffic stop menu:Breathalyzer test
+FIVEPD::OnMenuTrigger:Traffic stop menu:Drugswab test
+FIVEPD::OnMenuTrigger:Traffic stop menu:Order out of vehicle
+FIVEPD::OnMenuTrigger:Traffic stop menu:Free to go
+FIVEPD::OnMenuTrigger:Duty menu:On duty
+FIVEPD::OnMenuTrigger:Duty menu:Keep engine running
+FIVEPD::OnMenuTrigger:Duty menu:Spawn vehicle
+FIVEPD::OnMenuTrigger:Duty menu:Get loadout
+FIVEPD::OnMenuTrigger:Duty menu:Refill health & armor
+FIVEPD::OnMenuTrigger:Duty menu:Teleport to station
+FIVEPD::OnMenuTrigger:Duty menu:Options menu
+FIVEPD::OnMenuTrigger:Duty menu:Admin menu
+FIVEPD::OnMenuTrigger:Traffic stop position:Enable follow
+FIVEPD::OnMenuTrigger:Traffic stop position:Enable mimic
+FIVEPD::OnMenuTrigger:Traffic stop position:Enable go to marker
+FIVEPD::OnMenuTrigger:Traffic stop position:Cancel positioning
+FIVEPD::OnMenuTrigger:Dispatch menu:Check license
+FIVEPD::OnMenuTrigger:Dispatch menu:Check license plate
+FIVEPD::OnMenuTrigger:Dispatch menu:Request prison transport
+FIVEPD::OnMenuTrigger:Dispatch menu:Request Ambulance
+FIVEPD::OnMenuTrigger:Dispatch menu:Request air ambulance
+FIVEPD::OnMenuTrigger:Dispatch menu:Request fire department
+FIVEPD::OnMenuTrigger:Dispatch menu:Request Coroner
+FIVEPD::OnMenuTrigger:Dispatch menu:Request animal control
+FIVEPD::OnMenuTrigger:Dispatch menu:Request Tow
+FIVEPD::OnMenuTrigger:Dispatch menu:Request mechanic
+FIVEPD::OnMenuTrigger:Dispatch menu:Request taxi
+FIVEPD::OnMenuTrigger:Scene menu:Speed zone menu
+FIVEPD::OnMenuTrigger:Scene menu:Object menu
+FIVEPD::OnMenuTrigger:Garages:Respawn all garages
+FIVEPD::OnMenuTrigger:Garages:Respawn garage
